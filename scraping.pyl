@@ -18,13 +18,13 @@ driver.get('https://www.betburger.com/users/sign_in')
 # Enter your email/username and password
 
 email_field =driver.find_element(By.NAME, 'betburger_user[email]')
-email = 'perronemauro97@gmail.com'
+email = 'example@mail.com'
 for char in email:
     email_field.send_keys(char)
     time.sleep(0.1)
 
 password_field = driver.find_element(By.NAME,'betburger_user[password]')
-password = 'tQV6_ZGh_GvRUa*='
+password = 'password'
 
 for char in password:
     password_field.send_keys(char)
