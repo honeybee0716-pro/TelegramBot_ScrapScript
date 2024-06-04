@@ -1,4 +1,4 @@
-TelegramBot_ScrapScript
+#TelegramBot_ScrapScript
 
 This is consist of two script. 
 One is bot script and else is scraping script.
