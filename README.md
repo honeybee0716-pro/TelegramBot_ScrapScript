@@ -1,6 +1,6 @@
 TelegramBot_ScrapScript
 
-This is consist of two script.
+This is consist of two script. 
 One is bot script and else is scraping script.
 This project focused on integrating telegram bot and scraping script.
 The scraped site is betburger.com.
